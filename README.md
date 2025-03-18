@@ -1,9 +1,11 @@
 ﻿# Socket_Programming
 
-To simulate client server architecture ,first run server.py in terminal and client.py in other terminal 
-Use the follwoing command to run server code:
+To simulate client server architecture ,first run server.py in terminal and client.py in other terminal.
 
-python3 server.py
+Use the following command to run server code:
 
-For client
-python3 client.py
+`python3 server.py`
+
+For client:
+
+`python3 client.py`
